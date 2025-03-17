@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Biblioteka xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NazwaBiblioteki>Biblioteka Miejska</NazwaBiblioteki>
+  <WszystkieKsiazki>
+    <Ksiazka xsi:type="Poradnik">
+      <Tytul>Wielka Księga Ogrodnika i Działkowca</Tytul>
+      <Autor>Kawollek Wolfgang</Autor>
+      <RokWydania>2022</RokWydania>
+      <ISBN>001-0-00-000000-0</ISBN>
+      <Tematyka>Ogrodniczy</Tematyka>
+    </Ksiazka>
+    <Ksiazka xsi:type="Poradnik">
+      <Tytul>Pomysł na dom</Tytul>
+      <Autor>Katarzyna Czerwińska- Bobocińska</Autor>
+      <RokWydania>2024</RokWydania>
+      <ISBN>002-0-00-000000-0</ISBN>
+      <Tematyka>Budowlany</Tematyka>
+    </Ksiazka>
+    <Ksiazka xsi:type="Poradnik">
+      <Tytul>Poradnik fotograficzny</Tytul>
+      <Autor>Hoddinot Ross</Autor>
+      <RokWydania>2013</RokWydania>
+      <ISBN>003-0-00-000000-0</ISBN>
+      <Tematyka>Fotograficzny</Tematyka>
+    </Ksiazka>
+    <Ksiazka xsi:type="Poradnik">
+      <Tytul>Poradnik Budowy Kampera</Tytul>
+      <Autor>Miłosz Michalski</Autor>
+      <RokWydania>2022</RokWydania>
+      <ISBN>004-0-00-000000-0</ISBN>
+      <Tematyka>Budowlany</Tematyka>
+    </Ksiazka>
+    <Ksiazka xsi:type="Poradnik">
+      <Tytul>Szachy</Tytul>
+      <Autor>Eade James</Autor>
+      <RokWydania>2022</RokWydania>
+      <ISBN>005-0-00-000000-0</ISBN>
+      <Tematyka>Edukacyjny</Tematyka>
+    </Ksiazka>
+    <Ksiazka xsi:type="Powiesc">
+      <Tytul>Harry Potter i Kamień Filozoficzny</Tytul>
+      <Autor>J.K. Rowling</Autor>
+      <RokWydania>1997</RokWydania>
+      <ISBN>006-0-00-000000-0</ISBN>
+      <RodzajLiteratury>Fantastyczna</RodzajLiteratury>
+    </Ksiazka>
+    <Ksiazka xsi:type="Powiesc">
+      <Tytul>Władca Pierścieni: Drużyna Pierścienia</Tytul>
+      <Autor>J.R.R. Tolkien</Autor>
+      <RokWydania>1954</RokWydania>
+      <ISBN>007-0-00-000000-0</ISBN>
+      <RodzajLiteratury>Fantastyczna</RodzajLiteratury>
+    </Ksiazka>
+    <Ksiazka xsi:type="Powiesc">
+      <Tytul>Zbrodnia i kara</Tytul>
+      <Autor>Fiodor Dostojewski</Autor>
+      <RokWydania>1866</RokWydania>
+      <ISBN>008-0-00-000000-0</ISBN>
+      <RodzajLiteratury>Psychologiczna</RodzajLiteratury>
+    </Ksiazka>
+    <Ksiazka xsi:type="Powiesc">
+      <Tytul>Przeminęło z wiatrem</Tytul>
+      <Autor>Margaret Mitchell</Autor>
+      <RokWydania>1936</RokWydania>
+      <ISBN>009-0-00-000000-0</ISBN>
+      <RodzajLiteratury>Historyczna</RodzajLiteratury>
+    </Ksiazka>
+    <Ksiazka xsi:type="Powiesc">
+      <Tytul>Rok 1984</Tytul>
+      <Autor>George Orwell</Autor>
+      <RokWydania>1949</RokWydania>
+      <ISBN>010-0-00-000000-0</ISBN>
+      <RodzajLiteratury>Dystopijna</RodzajLiteratury>
+    </Ksiazka>
+    <Ksiazka xsi:type="Encyklopedia">
+      <Tytul>Encyklopedia PWN: Zwierzęta świata</Tytul>
+      <Autor>Redakcja PWN</Autor>
+      <RokWydania>2001</RokWydania>
+      <ISBN>011-0-00-000000-0</ISBN>
+      <ZakresTematyczny>zwierzęta</ZakresTematyczny>
+      <NumerTomu>3</NumerTomu>
+      <DodatkowaOplataZaZgubienie>2</DodatkowaOplataZaZgubienie>
+    </Ksiazka>
+    <Ksiazka xsi:type="Encyklopedia">
+      <Tytul>Encyklopedia wszechświata</Tytul>
+      <Autor>Hubert Reeves</Autor>
+      <RokWydania>2018</RokWydania>
+      <ISBN>012-0-00-000000-0</ISBN>
+      <ZakresTematyczny>kosmos</ZakresTematyczny>
+      <NumerTomu>2</NumerTomu>
+      <DodatkowaOplataZaZgubienie>7</DodatkowaOplataZaZgubienie>
+    </Ksiazka>
+    <Ksiazka xsi:type="Encyklopedia">
+      <Tytul>Encyklopedia sztuki nowoczesnej</Tytul>
+      <Autor>Katarzyna Nowakowska</Autor>
+      <RokWydania>2019</RokWydania>
+      <ISBN>013-0-00-000000-0</ISBN>
+      <ZakresTematyczny>sztuka</ZakresTematyczny>
+      <NumerTomu>4</NumerTomu>
+      <DodatkowaOplataZaZgubienie>11</DodatkowaOplataZaZgubienie>
+    </Ksiazka>
+    <Ksiazka xsi:type="Encyklopedia">
+      <Tytul>Encyklopedia Britannica</Tytul>
+      <Autor>Redakcja Britannica</Autor>
+      <RokWydania>2020</RokWydania>
+      <ISBN>014-0-00-000000-0</ISBN>
+      <ZakresTematyczny>nauka</ZakresTematyczny>
+      <NumerTomu>1</NumerTomu>
+      <DodatkowaOplataZaZgubienie>10</DodatkowaOplataZaZgubienie>
+    </Ksiazka>
+    <Ksiazka xsi:type="Encyklopedia">
+      <Tytul>Encyklopedia roślin</Tytul>
+      <Autor>Jane Goodall</Autor>
+      <RokWydania>2003</RokWydania>
+      <ISBN>015-0-00-000000-0</ISBN>
+      <ZakresTematyczny>flora</ZakresTematyczny>
+      <NumerTomu>2</NumerTomu>
+      <DodatkowaOplataZaZgubienie>7</DodatkowaOplataZaZgubienie>
+    </Ksiazka>
+    <Ksiazka xsi:type="Podrecznik">
+      <Tytul>Matematyka 2. Podręcznik dla liceum</Tytul>
+      <Autor>Marek Nowicki</Autor>
+      <RokWydania>2021</RokWydania>
+      <ISBN>016-0-00-000000-0</ISBN>
+      <Przedmiot>Matematyka</Przedmiot>
+      <PoziomEdukacji>Liceum</PoziomEdukacji>
+    </Ksiazka>
+    <Ksiazka xsi:type="Podrecznik">
+      <Tytul>Historia Polski dla licealistów</Tytul>
+      <Autor>Andrzej Chwalba</Autor>
+      <RokWydania>2019</RokWydania>
+      <ISBN>017-0-00-000000-0</ISBN>
+      <Przedmiot>Historia</Przedmiot>
+      <PoziomEdukacji>Liceum</PoziomEdukacji>
+    </Ksiazka>
+    <Ksiazka xsi:type="Podrecznik">
+      <Tytul>Chemia. Zbiór zadań</Tytul>
+      <Autor>Maria Litwin</Autor>
+      <RokWydania>2017</RokWydania>
+      <ISBN>018-0-00-000000-0</ISBN>
+      <Przedmiot>Chemia</Przedmiot>
+      <PoziomEdukacji>Gimnazjum</PoziomEdukacji>
+    </Ksiazka>
+    <Ksiazka xsi:type="Podrecznik">
+      <Tytul>Biologia na czasie 1</Tytul>
+      <Autor>Franciszek Dubert</Autor>
+      <RokWydania>2019</RokWydania>
+      <ISBN>019-0-00-000000-0</ISBN>
+      <Przedmiot>Biologia</Przedmiot>
+      <PoziomEdukacji>Liceum</PoziomEdukacji>
+    </Ksiazka>
+    <Ksiazka xsi:type="Podrecznik">
+      <Tytul>Zrozumieć fizykę</Tytul>
+      <Autor>Marcin Braun</Autor>
+      <RokWydania>2022</RokWydania>
+      <ISBN>020-0-00-000000-0</ISBN>
+      <Przedmiot>Fizyka</Przedmiot>
+      <PoziomEdukacji>Liceum</PoziomEdukacji>
+    </Ksiazka>
+    <Ksiazka xsi:type="Biografia">
+      <Tytul>Messi. Biografia</Tytul>
+      <Autor>Guillem Balague</Autor>
+      <RokWydania>2014</RokWydania>
+      <ISBN>021-0-00-000000-0</ISBN>
+      <OsobaBiografia>Lionel Messi</OsobaBiografia>
+    </Ksiazka>
+    <Ksiazka xsi:type="Biografia">
+      <Tytul>Steve Jobs</Tytul>
+      <Autor>Walter Isaacson</Autor>
+      <RokWydania>2011</RokWydania>
+      <ISBN>022-0-00-000000-0</ISBN>
+      <OsobaBiografia>Steve Jobs</OsobaBiografia>
+    </Ksiazka>
+    <Ksiazka xsi:type="Biografia">
+      <Tytul>Gandhi: A Life</Tytul>
+      <Autor>Krishna Kripalani</Autor>
+      <RokWydania>1960</RokWydania>
+      <ISBN>023-0-00-000000-0</ISBN>
+      <OsobaBiografia>Mahatma Gandhi</OsobaBiografia>
+    </Ksiazka>
+    <Ksiazka xsi:type="Biografia">
+      <Tytul>Maria Curie</Tytul>
+      <Autor>Eve Curie</Autor>
+      <RokWydania>1937</RokWydania>
+      <ISBN>024-0-00-000000-0</ISBN>
+      <OsobaBiografia>Maria Skłodowska-Curie</OsobaBiografia>
+    </Ksiazka>
+    <Ksiazka xsi:type="Biografia">
+      <Tytul>Churchill</Tytul>
+      <Autor>Andrew Roberts</Autor>
+      <RokWydania>2018</RokWydania>
+      <ISBN>025-0-00-000000-0</ISBN>
+      <OsobaBiografia>Winston Churchill</OsobaBiografia>
+    </Ksiazka>
+  </WszystkieKsiazki>
+  <DostepneKsiazki>
+    <Ksiazka xsi:type="Poradnik">
+      <Tytul>Wielka Księga Ogrodnika i Działkowca</Tytul>
+      <Autor>Kawollek Wolfgang</Autor>
+      <RokWydania>2022</RokWydania>
+      <ISBN>001-0-00-000000-0</ISBN>
+      <Tematyka>Ogrodniczy</Tematyka>
+    </Ksiazka>
+    <Ksiazka xsi:type="Poradnik">
+      <Tytul>Pomysł na dom</Tytul>
+      <Autor>Katarzyna Czerwińska- Bobocińska</Autor>
+      <RokWydania>2024</RokWydania>
+      <ISBN>002-0-00-000000-0</ISBN>
+      <Tematyka>Budowlany</Tematyka>
+    </Ksiazka>
+    <Ksiazka xsi:type="Poradnik">
+      <Tytul>Poradnik fotograficzny</Tytul>
+      <Autor>Hoddinot Ross</Autor>
+      <RokWydania>2013</RokWydania>
+      <ISBN>003-0-00-000000-0</ISBN>
+      <Tematyka>Fotograficzny</Tematyka>
+    </Ksiazka>
+    <Ksiazka xsi:type="Poradnik">
+      <Tytul>Poradnik Budowy Kampera</Tytul>
+      <Autor>Miłosz Michalski</Autor>
+      <RokWydania>2022</RokWydania>
+      <ISBN>004-0-00-000000-0</ISBN>
+      <Tematyka>Budowlany</Tematyka>
+    </Ksiazka>
+    <Ksiazka xsi:type="Poradnik">
+      <Tytul>Szachy</Tytul>
+      <Autor>Eade James</Autor>
+      <RokWydania>2022</RokWydania>
+      <ISBN>005-0-00-000000-0</ISBN>
+      <Tematyka>Edukacyjny</Tematyka>
+    </Ksiazka>
+    <Ksiazka xsi:type="Powiesc">
+      <Tytul>Harry Potter i Kamień Filozoficzny</Tytul>
+      <Autor>J.K. Rowling</Autor>
+      <RokWydania>1997</RokWydania>
+      <ISBN>006-0-00-000000-0</ISBN>
+      <RodzajLiteratury>Fantastyczna</RodzajLiteratury>
+    </Ksiazka>
+    <Ksiazka xsi:type="Powiesc">
+      <Tytul>Władca Pierścieni: Drużyna Pierścienia</Tytul>
+      <Autor>J.R.R. Tolkien</Autor>
+      <RokWydania>1954</RokWydania>
+      <ISBN>007-0-00-000000-0</ISBN>
+      <RodzajLiteratury>Fantastyczna</RodzajLiteratury>
+    </Ksiazka>
+    <Ksiazka xsi:type="Powiesc">
+      <Tytul>Zbrodnia i kara</Tytul>
+      <Autor>Fiodor Dostojewski</Autor>
+      <RokWydania>1866</RokWydania>
+      <ISBN>008-0-00-000000-0</ISBN>
+      <RodzajLiteratury>Psychologiczna</RodzajLiteratury>
+    </Ksiazka>
+    <Ksiazka xsi:type="Powiesc">
+      <Tytul>Przeminęło z wiatrem</Tytul>
+      <Autor>Margaret Mitchell</Autor>
+      <RokWydania>1936</RokWydania>
+      <ISBN>009-0-00-000000-0</ISBN>
+      <RodzajLiteratury>Historyczna</RodzajLiteratury>
+    </Ksiazka>
+    <Ksiazka xsi:type="Powiesc">
+      <Tytul>Rok 1984</Tytul>
+      <Autor>George Orwell</Autor>
+      <RokWydania>1949</RokWydania>
+      <ISBN>010-0-00-000000-0</ISBN>
+      <RodzajLiteratury>Dystopijna</RodzajLiteratury>
+    </Ksiazka>
+    <Ksiazka xsi:type="Encyklopedia">
+      <Tytul>Encyklopedia PWN: Zwierzęta świata</Tytul>
+      <Autor>Redakcja PWN</Autor>
+      <RokWydania>2001</RokWydania>
+      <ISBN>011-0-00-000000-0</ISBN>
+      <ZakresTematyczny>zwierzęta</ZakresTematyczny>
+      <NumerTomu>3</NumerTomu>
+      <DodatkowaOplataZaZgubienie>2</DodatkowaOplataZaZgubienie>
+    </Ksiazka>
+    <Ksiazka xsi:type="Encyklopedia">
+      <Tytul>Encyklopedia wszechświata</Tytul>
+      <Autor>Hubert Reeves</Autor>
+      <RokWydania>2018</RokWydania>
+      <ISBN>012-0-00-000000-0</ISBN>
+      <ZakresTematyczny>kosmos</ZakresTematyczny>
+      <NumerTomu>2</NumerTomu>
+      <DodatkowaOplataZaZgubienie>7</DodatkowaOplataZaZgubienie>
+    </Ksiazka>
+    <Ksiazka xsi:type="Encyklopedia">
+      <Tytul>Encyklopedia sztuki nowoczesnej</Tytul>
+      <Autor>Katarzyna Nowakowska</Autor>
+      <RokWydania>2019</RokWydania>
+      <ISBN>013-0-00-000000-0</ISBN>
+      <ZakresTematyczny>sztuka</ZakresTematyczny>
+      <NumerTomu>4</NumerTomu>
+      <DodatkowaOplataZaZgubienie>11</DodatkowaOplataZaZgubienie>
+    </Ksiazka>
+    <Ksiazka xsi:type="Encyklopedia">
+      <Tytul>Encyklopedia Britannica</Tytul>
+      <Autor>Redakcja Britannica</Autor>
+      <RokWydania>2020</RokWydania>
+      <ISBN>014-0-00-000000-0</ISBN>
+      <ZakresTematyczny>nauka</ZakresTematyczny>
+      <NumerTomu>1</NumerTomu>
+      <DodatkowaOplataZaZgubienie>10</DodatkowaOplataZaZgubienie>
+    </Ksiazka>
+    <Ksiazka xsi:type="Encyklopedia">
+      <Tytul>Encyklopedia roślin</Tytul>
+      <Autor>Jane Goodall</Autor>
+      <RokWydania>2003</RokWydania>
+      <ISBN>015-0-00-000000-0</ISBN>
+      <ZakresTematyczny>flora</ZakresTematyczny>
+      <NumerTomu>2</NumerTomu>
+      <DodatkowaOplataZaZgubienie>7</DodatkowaOplataZaZgubienie>
+    </Ksiazka>
+    <Ksiazka xsi:type="Podrecznik">
+      <Tytul>Matematyka 2. Podręcznik dla liceum</Tytul>
+      <Autor>Marek Nowicki</Autor>
+      <RokWydania>2021</RokWydania>
+      <ISBN>016-0-00-000000-0</ISBN>
+      <Przedmiot>Matematyka</Przedmiot>
+      <PoziomEdukacji>Liceum</PoziomEdukacji>
+    </Ksiazka>
+    <Ksiazka xsi:type="Podrecznik">
+      <Tytul>Historia Polski dla licealistów</Tytul>
+      <Autor>Andrzej Chwalba</Autor>
+      <RokWydania>2019</RokWydania>
+      <ISBN>017-0-00-000000-0</ISBN>
+      <Przedmiot>Historia</Przedmiot>
+      <PoziomEdukacji>Liceum</PoziomEdukacji>
+    </Ksiazka>
+    <Ksiazka xsi:type="Podrecznik">
+      <Tytul>Chemia. Zbiór zadań</Tytul>
+      <Autor>Maria Litwin</Autor>
+      <RokWydania>2017</RokWydania>
+      <ISBN>018-0-00-000000-0</ISBN>
+      <Przedmiot>Chemia</Przedmiot>
+      <PoziomEdukacji>Gimnazjum</PoziomEdukacji>
+    </Ksiazka>
+    <Ksiazka xsi:type="Podrecznik">
+      <Tytul>Biologia na czasie 1</Tytul>
+      <Autor>Franciszek Dubert</Autor>
+      <RokWydania>2019</RokWydania>
+      <ISBN>019-0-00-000000-0</ISBN>
+      <Przedmiot>Biologia</Przedmiot>
+      <PoziomEdukacji>Liceum</PoziomEdukacji>
+    </Ksiazka>
+    <Ksiazka xsi:type="Podrecznik">
+      <Tytul>Zrozumieć fizykę</Tytul>
+      <Autor>Marcin Braun</Autor>
+      <RokWydania>2022</RokWydania>
+      <ISBN>020-0-00-000000-0</ISBN>
+      <Przedmiot>Fizyka</Przedmiot>
+      <PoziomEdukacji>Liceum</PoziomEdukacji>
+    </Ksiazka>
+    <Ksiazka xsi:type="Biografia">
+      <Tytul>Messi. Biografia</Tytul>
+      <Autor>Guillem Balague</Autor>
+      <RokWydania>2014</RokWydania>
+      <ISBN>021-0-00-000000-0</ISBN>
+      <OsobaBiografia>Lionel Messi</OsobaBiografia>
+    </Ksiazka>
+    <Ksiazka xsi:type="Biografia">
+      <Tytul>Steve Jobs</Tytul>
+      <Autor>Walter Isaacson</Autor>
+      <RokWydania>2011</RokWydania>
+      <ISBN>022-0-00-000000-0</ISBN>
+      <OsobaBiografia>Steve Jobs</OsobaBiografia>
+    </Ksiazka>
+    <Ksiazka xsi:type="Biografia">
+      <Tytul>Gandhi: A Life</Tytul>
+      <Autor>Krishna Kripalani</Autor>
+      <RokWydania>1960</RokWydania>
+      <ISBN>023-0-00-000000-0</ISBN>
+      <OsobaBiografia>Mahatma Gandhi</OsobaBiografia>
+    </Ksiazka>
+    <Ksiazka xsi:type="Biografia">
+      <Tytul>Maria Curie</Tytul>
+      <Autor>Eve Curie</Autor>
+      <RokWydania>1937</RokWydania>
+      <ISBN>024-0-00-000000-0</ISBN>
+      <OsobaBiografia>Maria Skłodowska-Curie</OsobaBiografia>
+    </Ksiazka>
+    <Ksiazka xsi:type="Biografia">
+      <Tytul>Churchill</Tytul>
+      <Autor>Andrew Roberts</Autor>
+      <RokWydania>2018</RokWydania>
+      <ISBN>025-0-00-000000-0</ISBN>
+      <OsobaBiografia>Winston Churchill</OsobaBiografia>
+    </Ksiazka>
+  </DostepneKsiazki>
+  <WypozyczoneKsiazki />
+  <ZgubioneKsiazki />
+</Biblioteka>
