@@ -28,7 +28,7 @@ The application tracks borrowed and lost books 📚 and automatically calculates
 2️⃣ Build and launch the project <br>
 
 ## 👨‍💻 Authors
-Bartosz Tasak – Developed the abstract Ksiazka class and its derived classes (Biografia, Encyklopedia, Podrecznik, Poradnik, Powiesc), including KsiazkaException<br>
-Tomasz Profic – Designed the graphical user interface using WPF<br>
-Kacper Urbański – Implemented the Biblioteka class, developed the main program logic, and created the UML diagram<br>
+- Bartosz Tasak – Developed the abstract Ksiazka class and its derived classes (Biografia, Encyklopedia, Podrecznik, Poradnik, Powiesc), including KsiazkaException<br>
+- Tomasz Profic – Designed the graphical user interface using WPF<br>
+- Kacper Urbański – Implemented the Biblioteka class, developed the main program logic, and created the UML diagram<br>
 
