@@ -24,7 +24,6 @@ The application tracks borrowed and lost books 📚 and automatically calculates
 💾 Data Persistence – Save and retrieve book records using XML <br>
 
 ## 🚀 How to Use
-▶️ Running the Application <br>
 1️⃣ Open Projekt_GUI.sln in Visual Studio <br> 
 2️⃣ Build and launch the project <br>
 
